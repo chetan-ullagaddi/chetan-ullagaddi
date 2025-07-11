@@ -58,11 +58,8 @@ When I’m not coding, I love solving challenges on LeetCode, HackerRank & CodeC
   <summary><b>🔥 GitHub Streak</b></summary>
   <br />
   <img height="180em" src="https://streak-stats.demolab.com?user=chetan-ullagaddi&hide_border=true" />
-</details><details>
-  <summary><b>🔥 GitHub Streak</b></summary>
-  <br />
-  <img height="180em" src="https://streak-stats.demolab.com?user=chetan-ullagaddi&hide_border=true" />
 </details>
+
 ---
 
 ### 🙌 Like my work?
