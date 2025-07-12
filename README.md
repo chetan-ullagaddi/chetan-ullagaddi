@@ -2,9 +2,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ullagaddichetan2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ullagaddichetan2@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-ullagaddi-31b999254)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/chetanullagaddi)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetanullagaddi)
-[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chetanullagaddi)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/chetanullagaddi1977/)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ullagaddichetan2)
+[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chetanu93)
 
 ---
 
