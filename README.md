@@ -70,18 +70,24 @@ When I’m not coding, you’ll find me sharpening my problem-solving skills on 
 </p>
 
 ---
-<!-- Snake Game Repo View -->
+## 🐍 GitHub Contribution Snake Game
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
+
 <details>
   <summary><b>📊 My GitHub Stats</b></summary>
   <br />
+  <!-- Main GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chetan-ullagaddi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-ullagaddi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  <!-- Top Languages Card with a different theme -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-ullagaddi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </details>
+
 
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
@@ -90,6 +96,12 @@ When I’m not coding, you’ll find me sharpening my problem-solving skills on 
 </details>
 
 ---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=chetan-ullagaddi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 
 ### 🙌 Like my work?
 
