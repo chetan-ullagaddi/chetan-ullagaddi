@@ -68,19 +68,17 @@ When I’m not coding, I love solving challenges on LeetCode, HackerRank & CodeC
 
 ---
 
-### ⚡ **GitHub Stats**
-
 <details>
   <summary><b>📊 My GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chetan-ullagaddi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-ullagaddi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chetan-ullagaddi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-ullagaddi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </details>
 
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
   <br />
-  <img height="180em" src="https://streak-stats.demolab.com?user=chetan-ullagaddi&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=chetan-ullagaddi&hide_border=true&theme=tokyonight" />
 </details>
 
 ---
