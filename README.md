@@ -15,9 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=chetan-ullagaddi&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-ullagaddi" />
 </p>
 
-I am a **Java Full Stack Developer** passionate about building scalable applications with **Spring Boot**, **Microservices**, and cloud technologies.
+I’m a **Java Full Stack Developer** with a strong focus on building robust, scalable, and high-performance applications using **Spring Boot**, **Microservices**, and modern **cloud technologies**.
 
-When I’m not coding, I love solving challenges on LeetCode, HackerRank & CodeChef, and exploring the latest in tech!
+I love transforming complex requirements into elegant, maintainable solutions, and I’m deeply committed to writing clean, efficient code that follows industry best practices.  
+
+When I’m not coding, you’ll find me sharpening my problem-solving skills on **LeetCode**, **HackerRank**, and **CodeChef**, or exploring the latest trends in software development, architecture, and DevOps!
+
 
 ---
 
