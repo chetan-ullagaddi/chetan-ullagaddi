@@ -2,7 +2,7 @@
 
 
 
-## Hey there 👋, I'm [Chetan Ullagaddi!](https://github.com/chetan-ullagaddi)
+## Hey there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm [Chetan Ullagaddi!](https://github.com/chetan-ullagaddi)
 
 [![Gmail Badge](https://img.shields.io/badge/-ullagaddichetan2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ullagaddichetan2@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-ullagaddi-31b999254)
