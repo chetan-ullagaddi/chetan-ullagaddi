@@ -2,9 +2,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ullagaddichetan2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ullagaddichetan2@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-ullagaddi-31b999254)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/your_leetcode_username)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
-[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/your_codechef_username)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/chetanullagaddi)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetanullagaddi)
+[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chetanullagaddi)
 
 ---
 
@@ -39,6 +39,7 @@ When I’m not coding, I love solving challenges on LeetCode, HackerRank & CodeC
 ---
 
 ### 🗨️ **Random Dev Quote**
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
@@ -63,5 +64,5 @@ When I’m not coding, I love solving challenges on LeetCode, HackerRank & CodeC
 ---
 
 ### 🙌 Like my work?
-If you find my work helpful, feel free to star ⭐ my repositories and connect with me! Let’s build something awesome together.
 
+If you find my work helpful, feel free to star ⭐ my repositories and connect with me! Let’s build something awesome together.
