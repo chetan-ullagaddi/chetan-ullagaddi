@@ -70,7 +70,12 @@ When I’m not coding, you’ll find me sharpening my problem-solving skills on 
 </p>
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 <details>
   <summary><b>📊 My GitHub Stats</b></summary>
   <br />
