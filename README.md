@@ -1,3 +1,7 @@
+<!-- README.md -->
+
+
+
 ## Hey there 👋, I'm [Chetan Ullagaddi!](https://github.com/chetan-ullagaddi)
 
 [![Gmail Badge](https://img.shields.io/badge/-ullagaddichetan2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ullagaddichetan2@gmail.com)
@@ -20,7 +24,6 @@ I’m a **Java Full Stack Developer** with a strong focus on building robust, sc
 I love transforming complex requirements into elegant, maintainable solutions, and I’m deeply committed to writing clean, efficient code that follows industry best practices.  
 
 When I’m not coding, you’ll find me sharpening my problem-solving skills on **LeetCode**, **HackerRank**, and **CodeChef**, or exploring the latest trends in software development, architecture, and DevOps!
-
 
 ---
 
@@ -60,7 +63,6 @@ When I’m not coding, you’ll find me sharpening my problem-solving skills on 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 
-
 ---
 
 ### 🗨️ **Random Dev Quote**
@@ -70,6 +72,7 @@ When I’m not coding, you’ll find me sharpening my problem-solving skills on 
 </p>
 
 ---
+
 ## 🐍 GitHub Contribution Snake Game
 
 <div align="center">
@@ -84,10 +87,9 @@ When I’m not coding, you’ll find me sharpening my problem-solving skills on 
   <!-- Main GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chetan-ullagaddi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
   
-  <!-- Top Languages Card with a different theme -->
+  <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-ullagaddi&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </details>
-
 
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
@@ -96,12 +98,12 @@ When I’m not coding, you’ll find me sharpening my problem-solving skills on 
 </details>
 
 ---
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=chetan-ullagaddi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
 
 ### 🙌 Like my work?
 
